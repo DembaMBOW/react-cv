@@ -15,7 +15,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-typescript','fab fa-sass','fab fa-react'],
     source: 'https://github.com/needforschool/nfactory-ubersitter',
     info: "UberSitter est un projet dans le cadre d'une formation NFactory School qui consiste à développer une solution web permettant d'une part à des professionnels de la garde d'enfant de proposer leurs services et, d'autre part, à des parents recherchant une solution de garde ponctuelle ou régulière pour leurs enfants.",
-    picture: './media/project-ubers.PNG'
+    picture: './media/project-ubers.png'
   },
   {
     id: 3,
@@ -24,8 +24,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-wordpress','fab fa-php','fab fa-css3-alt'],
     source: 'https://github.com/needforschool/nfactory-lifepropulse',
     info: "Projet pédagogique d'un site vitrine pour une entreprise d'a'nalyse réseau",
-
-    picture: './media/project-life-propulse.JPG'
+    picture: './media/project-life-propulse1.jpg'
   },
   {
     id: 4,
@@ -34,7 +33,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-html5-alt','fab fa-css3-alt','fab fa-php'],
     source: 'http://www.github.com',
     info: "Projet pédagogique WordPress, Site d'offre, et d'annonce emplois fais totalement, en WordPress.",
-    picture: './media/project-life-propulse.JPG'
+    picture: './media/project-life-propulse1.jpg'
   },
   {
     id: 5,
@@ -43,7 +42,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js', 'fab fa-sass','fab fa-react'],
     source: 'https://github.com/DembaMBOW/nextjs-blog',
     info: 'Un blog fait en NEXTjs ',
-    picture: './media/project5.JPG'
+    picture: './media/project-life-propulse1.jpg'
   },
   {
     id: 6,
