@@ -11,7 +11,7 @@ const Home = () => {
                   <h1>Demba Mbow</h1>
                   <h2>Developpeur web </h2>
                   <div className="pdf">
-                     <a href="../media/Cv-alternance.png" target="_blank">Télécharger CV</a>
+                     <a href="../media/CV-alternance.png" target="_blank">Télécharger CV</a>
                   </div>
                  </div>
             </div>
