@@ -34,7 +34,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-html5-alt','fab fa-css3-alt','fab fa-php'],
     source: 'http://www.github.com',
     info: "Projet pédagogique WordPress, Site d'offre, et d'annonce emplois fais totalement, en WordPress.",
-    picture: './media/project4.JPG'
+    picture: './media/project-life-propulse.JPG'
   },
   {
     id: 5,
