@@ -21,10 +21,7 @@ const Hobbies = () => {
                  <i className="fas fa-music"></i>   
                  <span>Musique</span>
                 </li>
-                <li className="hobby">
-                 <i className="fas fa-running"></i>   
-                 <span>FootBall</span>
-                </li>
+              
             </ul>
         </div>
     );

@@ -26,32 +26,32 @@ export const portfolioData = [
     info: "Projet pédagogique d'un site vitrine pour une entreprise d'a'nalyse réseau",
     picture: './media/project-life-propulse1.jpg'
   },
-  {
-    id: 4,
-    name: " Project Life Propulse",
-    languages: ['tout','html','php','css'],
-    languagesIcons: ['fab fa-html5-alt','fab fa-css3-alt','fab fa-php'],
-    source: 'http://www.github.com',
-    info: "Projet pédagogique WordPress, Site d'offre, et d'annonce emplois fais totalement, en WordPress.",
-    picture: './media/project-life-propulse1.jpg'
-  },
-  {
-    id: 5,
-    name: 'blog',
-    languages: ['tout','Javascript','SASS','react'],
-    languagesIcons: ['fab fa-js', 'fab fa-sass','fab fa-react'],
-    source: 'https://github.com/DembaMBOW/nextjs-blog',
-    info: 'Un blog fait en NEXTjs ',
-    picture: './media/project-life-propulse1.jpg'
-  },
-  {
-    id: 6,
-    name: 'blog',
-    languages: ['tout','Javascript','SASS','react'],
-    languagesIcons: ['fab fa-js', 'fab fa-sass','fab fa-react'],
-    source: 'https://github.com/DembaMBOW/nextjs-blog',
-    info: 'Un blog fait en NEXTjs ',
-    picture: './media/project5.JPG'
-  },
+  // {
+  //   id: 4,
+  //   name: " Project Life Propulse",
+  //   languages: ['tout','html','php','css'],
+  //   languagesIcons: ['fab fa-html5-alt','fab fa-css3-alt','fab fa-php'],
+  //   source: 'http://www.github.com',
+  //   info: "Projet pédagogique WordPress, Site d'offre, et d'annonce emplois fais totalement, en WordPress.",
+  //   picture: './media/project-life-propulse1.jpg'
+  // },
+  // {
+  //   id: 5,
+  //   name: 'blog',
+  //   languages: ['tout','Javascript','SASS','react'],
+  //   languagesIcons: ['fab fa-js', 'fab fa-sass','fab fa-react'],
+  //   source: 'https://github.com/DembaMBOW/nextjs-blog',
+  //   info: 'Un blog fait en NEXTjs ',
+  //   picture: './media/project-life-propulse1.jpg'
+  // },
+  // {
+  //   id: 6,
+  //   name: 'blog',
+  //   languages: ['tout','Javascript','SASS','react'],
+  //   languagesIcons: ['fab fa-js', 'fab fa-sass','fab fa-react'],
+  //   source: 'https://github.com/DembaMBOW/nextjs-blog',
+  //   info: 'Un blog fait en NEXTjs ',
+  //   picture: './media/project5.JPG'
+  // },
 
 ]
