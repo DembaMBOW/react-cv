@@ -5,13 +5,14 @@ const Experience = () => {
         <div className="experience">
             <h3>Experience</h3>
             <div className="xp-1">
-                <h4>CLBN Caen </h4>
+                <h4>CLBN (Centres de Loisirs de Basse-Normandie) Caen </h4>
                 <h5>02/08/2021 19/08/2021</h5>
                 <p>
-                    Animateur, Educateur pour personnes en
-                    situation d'handicap, aides à la toilette,
-                    aide aux repas, Chargé d'animation d'activités,
-                    Gestion sur la sécurité des personnes.
+                Assurer l'encadrement d'un centre de vacances pour adultes en situation de handicap.
+                Gérer la vie quotidienne(aides à la toilettes).
+                Respecter la réglementation en vigueur.
+                Proposer et animer des activités.
+                    
                 </p>
             </div>
             <div className="xp-2">
@@ -22,7 +23,7 @@ const Experience = () => {
                     Chargé de la sécurité.
                     De la sécurité du site,
                     Reformulation des phrases
-                    Chargé du changement du menu
+                    Chargé du changement du contenu
                 </p>
             </div>
             <div className="xp-3">
