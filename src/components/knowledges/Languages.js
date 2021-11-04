@@ -5,11 +5,11 @@ import ProgressBar from './ProgressBar';
 class Languages extends Component {
     state = {
         languages: [
-            { id: 1, value: "Javascript", xp: 0.8 },
-            { id: 2, value: "Css", xp: 0.6},
-            { id: 3, value: "Php", xp: 0.6},
-            { id: 4, value: "My sql", xp: 0.6 },
-            { id: 5, value: "html", xp: 0.6 }
+            { id: 1, value: "Javascript", xp: 0.9 },
+            { id: 2, value: "Css", xp: 0.9},
+            { id: 3, value: "Php", xp: 0.9},
+            { id: 4, value: "My sql", xp: 0.9 },
+            { id: 5, value: "html", xp: 0.9 }
 
 
 
