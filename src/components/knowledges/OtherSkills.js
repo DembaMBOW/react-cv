@@ -17,7 +17,6 @@ const OtherSkills = () => {
                     <li><i className="fas fa-check-square"></i>Figma</li>
                     <li><i className="fas fa-check-square"></i>Canva</li>
                     <li><i className="fas fa-check-square"></i>Organisation</li>
-                    <li><i className="fas fa-check-square"></i>Marketing</li>
                     <li><i className="fas fa-check-square"></i>Réseaux sociaux</li>
                 </ul>
             </div>
