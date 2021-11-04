@@ -5,7 +5,7 @@ const Experience = () => {
         <div className="experience">
             <h3>Experience</h3>
             <div className="xp-1">
-                <h4> (Centres de Loisirs de Basse-Normandie) Caen </h4>
+                <h4> ANIMATEUR pour personnes en situation d'handicap - Rennes</h4>
                 <h5>02/08/2021 19/08/2021</h5>
                 <p>
                 Assurer l'encadrement d'un centre de vacances pour adultes en situation de handicap.
