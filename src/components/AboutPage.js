@@ -113,7 +113,7 @@ const AboutPage = () => {
            Je suis un développeur web, à la recherche d'alternance. J'aime créer des sites Web simples mais beaux avec une excellente expérience utilisateur.
             <br />
             <br />
-            Aujourd'hui l'informatique a évolué d’une manière exponentielle, les langages et Framework se multiplient, se diversifie, devenant plus complexe, mais répondant aux besoins de l’humain.  <br />
+            {/* Aujourd'hui l'informatique a évolué d’une manière exponentielle, les langages et Framework se multiplient, se diversifie, devenant plus complexe, mais répondant aux besoins de l’humain.  <br /> */}
             <br /> Vous pouvez me joindre via les liens sociaux.
           Ou via mon numéros de téléphone: <br />
           06.66.22.51.55.
