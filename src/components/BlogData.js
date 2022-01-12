@@ -40,7 +40,7 @@ export const Blogs = [{
 
     {
         id: 5,
-        name: "Logo requin Réaliser avec Photoshop avec Adobe Illustrator",
+        name: "Logo requin Réaliser avec Photoshop et Illustrator",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
         link: "https://dembamb.com/",
