@@ -9,15 +9,18 @@ import Intro from "./Intro";
 import Loading from "../subComponents/Loading";
 import { mediaQueries } from "./Themes";
 
-const PowerButton = lazy(() => import("../subComponents/PowerButton"));
-const SocialIcons = lazy(() => import("./../subComponents/SocialIcons"));
+const PowerButton = lazy(() =>
+    import ("../subComponents/PowerButton"));
+const SocialIcons = lazy(() =>
+    import ("./../subComponents/SocialIcons"));
 
-const LogoComponent = lazy(() => import("./../subComponents/LogoComponent"));
+const LogoComponent = lazy(() =>
+    import ("./../subComponents/LogoComponent"));
 
-//   import SocialIcons from './../subComponents/SocialIcons';
-// import LogoComponent from './../subComponents/LogoComponent';
 
-const MainContainer = styled(motion.div)`
+
+const MainContainer = styled(motion.div)
+`
   background: ${(props) => props.theme.body};
   width: 100vw;
   height: 100vh;
