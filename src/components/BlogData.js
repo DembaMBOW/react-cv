@@ -27,7 +27,7 @@ export const Blogs = [{
 
     {
         id: 4,
-        name: "Mussée d'oeuvres Réaliser avec Photoshop ",
+        name: "1 - premier version Mussée d'oeuvres  Réaliser avec Photoshop ",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--sBeV06Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yrzy75q4dzibqz6rf82.png",
         link: "/assets/Images/musée-palais-MEAM-portofolio.jpg",
@@ -43,6 +43,15 @@ export const Blogs = [{
         link: "/assets/Images/Père-riche-pere-pauvre-copie-1024x585.png",
 
         img: "/assets/Images/Père-riche-pere-pauvre-copie-1024x585.png",
+
+    },
+
+    {
+        id: 6,
+        name: "Flyer pizza, pour les réseaux sociaux.",
+        tags: [],
+        // link: "/assets/Images/flyer-pizza.png",
+        // img: "/assets/Images/flyer-pizza.png",
 
     },
 
