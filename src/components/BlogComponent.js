@@ -34,7 +34,7 @@ const Box = styled(motion(NavLink))
   `};
   ${mediaQueries(30)`
     
-    height:18rem;
+    // height:18rem;
 
   `};
 
