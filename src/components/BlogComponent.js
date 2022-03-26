@@ -11,7 +11,7 @@ const Box = styled(motion(NavLink))
   box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
   text-decoration: none;
   width: calc(10rem + 15vw);
-  height: 20rem;
+  // height: 20rem;
   border: 2px solid ${(props) => props.theme.text};
   padding: 1rem;
   color: ${(props) => props.theme.text};
@@ -40,7 +40,7 @@ const Box = styled(motion(NavLink))
 
   ${mediaQueries(25)`
     
-    height:14rem;
+    height:24rem;
     padding:0.8rem;
     backdrop-filter: none;
 
