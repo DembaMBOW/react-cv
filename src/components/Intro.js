@@ -207,7 +207,7 @@ const Intro = () => {
 
           <h3>Je suis Demba Mbow</h3>
 
-          <h6>Etudiant à la  Need For School à Rouen</h6>
+          <h6>Développer Web et Designer autoditacte</h6>
         </Text>
       </SubBox>
       <SubBox>

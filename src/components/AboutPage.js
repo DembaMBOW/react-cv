@@ -117,7 +117,7 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-           Je suis un développeur web, à la recherche d'une d'alternance. J'aime créer des sites Web simples,  beaux avec une excellente expérience utilisateur.
+           Je suis développeur et designer web  J'aime créer des sites Web simples,  beaux avec une excellente expérience utilisateur.
             <br />
             <br />
             {/* Aujourd'hui l'informatique a évolué d’une manière exponentielle, les langages et Framework se multiplient, se diversifie, devenant plus complexe, mais répondant aux besoins de l’humain.  <br /> */}
