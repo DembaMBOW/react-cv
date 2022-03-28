@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 import { Anchor, Link } from "../components/AllSvgs";
 import { mediaQueries } from "../components/Themes";
 
-const Container = styled.div`
+const Container = styled.div `
   position: relative;
   ${mediaQueries(40)`
     
@@ -19,8 +19,6 @@ const PreDisplay = styled.div`
   position:absolute;
   top:0;
   right:2rem;
-
- 
 
 
 }
