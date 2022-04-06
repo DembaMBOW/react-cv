@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import styled from "styled-components";
 import { mediaQueries } from "./Themes";
 
+
 const Box = styled(motion.div)
 `
   /* width: 50vw;

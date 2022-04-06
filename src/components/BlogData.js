@@ -137,6 +137,18 @@ export const Blogs = [{
 
     },
 
+    {
+        id: 11,
+        name: "Logo requin Réaliser avec Photoshop et Illustrator",
+        tags: [],
+        // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
+        // link: "https://dembamb.com/",
+        link: "/assets/Images/cartoon-demba+NOM.png",
+
+        img: "/assets/Images/cartoon-demba+NOM.png",
+
+    },
+
     // {
     //     id: 10,
     //     name: "Logo requin Réaliser avec Photoshop et Illustrator",
