@@ -107,7 +107,7 @@ export const Blogs = [{
         name: "Magazine Mbappe",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
-        link: "/assets/Images/mbappe.png",
+        link: "/assets/Images/magazinepsg-real.png",
 
         img: "/assets/Images/magazinepsg-real.png",
 
