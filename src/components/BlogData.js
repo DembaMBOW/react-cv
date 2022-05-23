@@ -66,7 +66,6 @@ export const Blogs = [{
 
     //     img: "/assets/Images/muséedemba.png",
 
-
     // },
 
 
@@ -105,7 +104,7 @@ export const Blogs = [{
 
     {
         id: 9,
-        name: "Affiche Mbappe",
+        name: "Magazine Mbappe",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
         link: "/assets/Images/mbappe.png",
