@@ -149,4 +149,17 @@ export const Blogs = [{
 
     },
 
+    {
+        id: 13,
+        name: "Personnage 2D Concept PSG",
+        tags: [],
+        // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
+        // link: "https://dembamb.com/",
+        link: "/assets/Images/perso2gpsg.png",
+
+        img: "/assets/Images/perso2gpsg.png",
+
+    },
+
+
 ]
