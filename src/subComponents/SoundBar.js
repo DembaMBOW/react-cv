@@ -1,9 +1,9 @@
 import { useRef, useState } from "react";
 import styled, { keyframes } from "styled-components";
 
-import music from "../assets/audio/u-said-it-v13-1167.mp3";
+import music from "../assets/audio/Beautiful Japanese Music - Flute of Mysteries.mp3";
 import { mediaQueries } from "../components/Themes";
-const Box = styled.div`
+const Box = styled.div `
   display: flex;
   cursor: pointer;
 
