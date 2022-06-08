@@ -112,12 +112,14 @@ export const Linkedin = (props) => {
     )
 }
 
+
+
 export const YinYang = (props) => {
     return (
-        <svg
+        <svg    
           aria-hidden="true"
           data-prefix="fas"
-          data-icon="yin-yang"
+          data-icon="yin-yang" 
           className="prefix__svg-inline--fa prefix__fa-yin-yang prefix__fa-w-16"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 496 512"

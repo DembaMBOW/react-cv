@@ -115,6 +115,17 @@ export const Blogs = [{
 
     {
         id: 10,
+        name: "Cover pochette d'album",
+        tags: [],
+        // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
+        link: "/assets/Images/cover-pochettembappe.png",
+
+        img: "/assets/Images/cover-pochettembappe.png",
+
+    },
+
+    {
+        id: 11,
         name: "Affiche Sportif Giannis Antekoumpo",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
@@ -126,7 +137,7 @@ export const Blogs = [{
 
 
     {
-        id: 11,
+        id: 12,
         name: "Logo requin Réaliser avec Photoshop et Illustrator",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
@@ -138,7 +149,7 @@ export const Blogs = [{
     },
 
     {
-        id: 12,
+        id: 13,
         name: "Portrait dessin cartoon",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
@@ -150,7 +161,7 @@ export const Blogs = [{
     },
 
     {
-        id: 13,
+        id: 14,
         name: "Personnage 2D Concept PSG",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",

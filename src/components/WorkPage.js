@@ -10,19 +10,25 @@ import { DarkTheme, mediaQueries } from "./Themes";
 import Card from "../subComponents/Card";
 import Loading from "../subComponents/Loading";
 
-const SocialIcons = lazy(() => import("../subComponents/SocialIcons"));
-const PowerButton = lazy(() => import("../subComponents/PowerButton"));
-const LogoComponent = lazy(() => import("../subComponents/LogoComponent"));
-const BigTitle = lazy(() => import("../subComponents/BigTitle"));
+const SocialIcons = lazy(() =>
+    import ("../subComponents/SocialIcons"));
+const PowerButton = lazy(() =>
+    import ("../subComponents/PowerButton"));
+const LogoComponent = lazy(() =>
+    import ("../subComponents/LogoComponent"));
+const BigTitle = lazy(() =>
+    import ("../subComponents/BigTitle"));
 
-const Box = styled(motion.div)`
+const Box = styled(motion.div)
+`
   background-color: ${(props) => props.theme.body};
   position: relative;
   display: flex;
   height: 400vh;
 `;
 
-const Main = styled(motion.ul)`
+const Main = styled(motion.ul)
+`
   position: fixed;
   top: 12rem;
   left: calc(10rem + 15vw);
