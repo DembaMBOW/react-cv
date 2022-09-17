@@ -172,17 +172,17 @@ export const Blogs = [{
 
     },
 
-    // {
-    //     id: 15,
-    //     name: "Equipe de France, vainqueurs de la coupe du monde 2018 ",
-    //     tags: [],
-    //     // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
-    //     // link: "https://dembamb.com/",
-    //     link: "/assets/Images/equipe-fffcp2018etoie.png",
+    {
+        id: 15,
+        name: "Equipe de France, vainqueurs de la coupe du monde 2018 ",
+        tags: [],
+        // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
+        // link: "https://dembamb.com/",
+        link: "/assets/Images/equipe2018securiser.png",
 
-    //     img: "/assets/Images/equipe-fffcp2018etoie.png",
+        img: "/assets/Images/equipe2018securiser.png",
 
-    // },
+    },
 
 
 
