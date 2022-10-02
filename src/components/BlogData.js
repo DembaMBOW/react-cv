@@ -37,36 +37,34 @@ export const Blogs = [{
         name: "Affiche Lebron james Lakers, réaliser avec photoshop ",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
-        link: "/assets/Images/lebron-lakersecuriser.png",
+        link: "/assets/Images/lebron-lakerscuriser.png",
 
-        img: "/assets/Images/lebron-lakersecuriser.png",
+        img: "/assets/Images/lebron-lakerscuriser.png",
 
     },
 
     {
         id: 5,
-        name: "Affiche Benzema Real Madrild, réaliser avec photoshop ",
+        name: "Affiche Benzema Real Madrid, réaliser avec photoshop ",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
         // link: "https://dembamb.com/",
-        link: "/assets/Images/affiche2-exemplekb9finalséecuriser.png",
+        link: "/assets/Images/affiche2-exemplekb9finalsecuriser.png",
 
-        img: "/assets/Images/affiche2-exemplekb9finalséecuriser.png",
+        img: "/assets/Images/affiche2-exemplekb9finalsecuriser.png",
 
     },
 
-    // {
-    //     id: 2,
-    //     name: "Musée d'oeuvres de certains project non actifs avec aussi mes passion Réaliser avec Photoshop",
-    //     tags: [],
-    //     // imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625479747640%2F7KzwP9nmj.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
-    //     // link: "https://dembamb.com/",
-    //     // picture: "/.assets/images/muséedemba.png"
-    //     link: "/assets/Images/muséedemba.png",
+    {
+        id: 2,
+        name: "Lebron James, dessin sous format cartoon réaliser avec Illustrator",
+        tags: [],
+        // imgSrc:"https://codebucks.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1625479747640%2F7KzwP9nmj.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75",
+        // link: "https://dembamb.com/",
+        link: "/assets/Images/cartoonJames-sécruiser.png",
+        img: "/assets/Images/cartoonJames-sécruiser.png",
 
-    //     img: "/assets/Images/muséedemba.png",
-
-    // },
+    },
 
 
     {
@@ -74,9 +72,9 @@ export const Blogs = [{
         name: "Affiche Benzema réaliser avec photoshop",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
-        link: "/assets/Images/kb9-affichesecuriser.png",
+        link: "/assets/Images/kb9-affichesécuriser.png",
 
-        img: "/assets/Images/kb9-affichesecuriser.png",
+        img: "/assets/Images/kb9-affichesécuriser.png",
 
     },
 
@@ -96,9 +94,9 @@ export const Blogs = [{
         name: "Affiche Mbappe, réaliser avec photoshop",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
-        link: "/assets/Images/mbappesécuriser.png",
+        link: "/assets/Images/mbappe-securiser.png",
 
-        img: "/assets/Images/mbappesécuriser.png",
+        img: "/assets/Images/mbappe-securiser.png",
 
     },
 
@@ -118,9 +116,9 @@ export const Blogs = [{
         name: "Cover pochette d'album, réaliser avec photoshop",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
-        link: "/assets/Images/cover-rap-mbappesecuriser.png",
+        link: "/assets/Images/cover-rap-mbappe-secur.png",
 
-        img: "/assets/Images/cover-rap-mbappesecuriser.png",
+        img: "/assets/Images/cover-rap-mbappe-secur.png",
 
     },
 
@@ -129,9 +127,9 @@ export const Blogs = [{
         name: "Affiche Sportif Giannis Antekoumpo, réaliser avec photoshop",
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--ZY1EK-Eo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcz1u90oq3prr5fga3fs.pnghttps://www.youtube.com/watch?v=Ze5jSeX4Iwshttps://dev.to/codebucks/what-is-redux-simply-explained-2ch7",
-        link: "/assets/Images/antekoumpo-raparersécurise.png",
+        link: "/assets/Images/antekoumpo-raparer-securiser.png",
 
-        img: "/assets/Images/antekoumpo-raparersécurise.png",
+        img: "/assets/Images/antekoumpo-raparer-securiser.png",
 
     },
 
@@ -142,9 +140,9 @@ export const Blogs = [{
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
         // link: "https://dembamb.com/",
-        link: "/assets/Images/LOGO-SHark.png",
+        link: "/assets/Images/LOGO-SHark.jpg",
 
-        img: "/assets/Images/LOGO-SHark.png",
+        img: "/assets/Images/LOGO-SHark.jpg",
 
     },
 
@@ -166,9 +164,9 @@ export const Blogs = [{
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
         // link: "https://dembamb.com/",
-        link: "/assets/Images/2d_persos_psg_maillot_blakcand_whitesecuriser2.png",
+        link: "/assets/Images/2d_persos_psg_maillot_blakcand_white-securiser (1).png",
 
-        img: "/assets/Images/2d_persos_psg_maillot_blakcand_whitesecuriser2.png",
+        img: "/assets/Images/2d_persos_psg_maillot_blakcand_white-securiser (1).png",
 
     },
 
@@ -178,9 +176,9 @@ export const Blogs = [{
         tags: [],
         // imgSrc:"https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
         // link: "https://dembamb.com/",
-        link: "/assets/Images/equipe2018securiser.png",
+        link: "/assets/Images/equipe-france-securise.png",
 
-        img: "/assets/Images/equipe2018securiser.png",
+        img: "/assets/Images/equipe-france-securise.png",
 
     },
 
