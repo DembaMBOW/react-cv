@@ -121,7 +121,8 @@ const AboutPage = () => {
             <br />
             <br />
             {/* Aujourd'hui l'informatique a évolué d’une manière exponentielle, les langages et Framework se multiplient, se diversifie, devenant plus complexe, mais répondant aux besoins de l’humain.  <br /> */}
-            <br /> Vous pouvez me joindre via les liens sociaux.
+            <br /> Vous pouvez me joindre via les liens sociaux. Linkedin Demba Mbow <br /> <br /><br />
+            
           Ou via mon numéros de téléphone: <br />
           06.66.22.51.55.
             {' '}
